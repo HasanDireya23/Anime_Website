@@ -5,5 +5,5 @@
 ![image](https://github.com/HasanDireya23/brainwave-website/assets/154442851/0af7bb70-29a9-4909-ac01-dda10bd177e3)
 ![image](https://github.com/HasanDireya23/brainwave-website/assets/154442851/9a0a3ea4-4c60-4468-85e9-bc764b034cc3)
 
-- **Try it !!** : [Live Demo For Anime Website](https://anime-website-o0062z609-hasans-projects-fb9d78f4.vercel.app)
+- **Try it !!** : [Live Demo For Anime Website](https://anime-website-git-main-hasans-projects-fb9d78f4.vercel.app)
 
